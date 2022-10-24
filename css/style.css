@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav__container{
+    background-color: black;
+    height: auto;
+    padding: 1rem;
+}
+
+.nav__navigation{
+    display: flex;
+}
+
+.nav_text{
+    color: #fff;
+    list-style-type:none;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 1rem;
+}
+
+.menu__nav{
+    
+}
