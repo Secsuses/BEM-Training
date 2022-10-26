@@ -24,7 +24,7 @@ a:hover{
 }
 
 
-.main__nav{
+.nav__main{
   display: flex;
   align-items: center;
   justify-content: center;
@@ -182,3 +182,18 @@ p{
   cursor:pointer;
 }
 
+h1.good__quality-conatainer--header {
+  padding-left: 20%;
+  padding-right: 21%;
+}
+
+p.good__quality-conatainer--text {
+  padding-left: 13%;
+  padding-right: 13%;
+  text-align: center;
+}
+
+p.good__quality-conatainer--text,
+h1.good__quality-conatainer--header{
+  color:#FFFFFF;
+}
